@@ -1,6 +1,6 @@
 - 👋  Olá, Eu sou o Daniel Lima
 - 👀 I’m interested in  me aprofundar no maravilhoso mundo da Programação
-- 🌱 I’m currently learning  Python, HTML5, CSS3 e JavaScript
+- 🌱 I’m currently learning  JAVA, Python, HTML5, CSS3 e JavaScript
 - 💞️ I’m looking to collaborate on  pequenos projetos para obter exp.
 - 📫 How to reach me ... https://www.linkedin.com/in/danielsantos1204/
 
